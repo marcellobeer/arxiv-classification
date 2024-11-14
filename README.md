@@ -71,6 +71,3 @@ O projeto está organizado em um notebook Jupyter com as seguintes seções:
 - O acesso à aplicação via Ngrok tem duração limitada
 - Necessário reexecutar o notebook para uma nova sessão
 - Modelo treinado com dados disponíveis até a data de desenvolvimento
-
-## Licença
-Este projeto está sob a licença MIT.
