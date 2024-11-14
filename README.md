@@ -4,7 +4,7 @@
 Uma aplicação que utiliza aprendizado de máquina para classificar artigos de física do ArXiv e encontrar papers similares. O sistema analisa o resumo (abstract) do artigo e prediz sua categoria dentro da física, além de identificar artigos semelhantes no banco de dados.
 
 # Apresentação
-(YOUTUBE)
+🎥 https://www.youtube.com/watch?v=8zKrlLhK9kM
 
 ## Documentação Detalhada
 Para uma compreensão aprofundada do projeto, consulte o arquivo `ARTICLE.md`, que contém:
