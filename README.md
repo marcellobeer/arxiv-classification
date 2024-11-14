@@ -72,8 +72,5 @@ O projeto está organizado em um notebook Jupyter com as seguintes seções:
 - Necessário reexecutar o notebook para uma nova sessão
 - Modelo treinado com dados disponíveis até a data de desenvolvimento
 
-## Autor
-[Seu Nome]
-
 ## Licença
 Este projeto está sob a licença MIT.
